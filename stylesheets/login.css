@@ -1,0 +1,79 @@
+#registerButton {
+	position: relative;
+	left: 92%;
+	font-family: Helvetica Neue,HelveticaNeue,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-weight: 700;	
+	padding: 8px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 2px;
+	border: 1px solid white;
+	background-color: white;
+}
+
+#loginTitolo {
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "billabong";
+	color: white;
+    line-height: 1.8;
+	font-weight: 500;
+	font-size: 3.5em;
+	text-shadow: 1px 1px 1px grey;
+
+}
+
+#loginTitolo img {
+	height: 25px;
+	box-shadow: 1px 1px 1px grey;
+}
+
+
+div.loginDiv {
+	position: relative;
+	top: 100px;
+	max-width: 400px;
+	margin: auto;
+	height: 200px;
+}
+
+input.loginField {
+	position: relative;
+	width: 300px;
+	margin: 0px auto ;
+	display: block;
+	padding: 10px;
+	border: 1px solid lightgrey;
+	border-radius: 2px;
+	font: 16px/1.4 "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+}
+
+button.loginField {
+	position: relative;	
+	display: block;
+	width: 322px;
+	border: 1px solid;
+	margin: 10px auto;	
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 2px;
+	border-color: #529ecc;
+	background: #529ecc;
+	height: 44.4px;
+	color: white;
+}
+
+body {
+    background-image: url("../immagini_login/login5.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+
+
